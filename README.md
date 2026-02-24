@@ -1,10 +1,6 @@
 # Hi, I'm Matheus Avila! 👋 
 ### Fullstack Developer | React, Next.js & Tailwind CSS Enthusiast
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=38B2AC&height=200&section=header&text=Matheus%20Avila&fontSize=80&animation=fadeIn" />
-</p>
-
 ---
 
 ### 🇧🇷 Sobre Mim (PT-BR)
@@ -35,13 +31,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMathAvila&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMathAvila&layout=compact&langs_count=7&theme=radical" />
-</p>
+![Stats de Matheus](https://github-readme-stats.vercel.app/api?username=DevMathAvila&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Linguagens de Matheus](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMathAvila&layout=compact&langs_count=7&theme=radical)
+
+---
+
+### 🚀 Featured Project / Projeto em Destaque
+
+[![Sistema de Gestão](https://github-readme-stats.vercel.app/api/pin/?username=DevMathAvila&repo=sistema-de-gestao&theme=radical)](https://github.com/DevMathAvila/sistema-de-gestao)
 
 ---
 
 ### 📫 Let's Connect / Vamos nos conectar
 - 💼 [LinkedIn](https://linkedin.com/in/matheusapavila)
-- 📧 [E-mail](mailto:seuemail@exemplo.com)
+- 📧 [E-mail](mailto:matheusapavila@outlook.com.br)
