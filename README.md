@@ -31,14 +31,17 @@
 
 ### 📊 GitHub Stats
 
-![Stats de Matheus](https://github-readme-stats.vercel.app/api?username=DevMathAvila&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Linguagens de Matheus](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMathAvila&layout=compact&langs_count=7&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMathAvila&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMathAvila&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🚀 Featured Project / Projeto em Destaque
 
-[![Sistema de Gestão](https://github-readme-stats.vercel.app/api/pin/?username=DevMathAvila&repo=sistema-de-gestao&theme=radical)](https://github.com/DevMathAvila/sistema-de-gestao)
+**[Sistema de Gestão](https://github.com/DevMathAvila/sistema-de-gestao)**
+> Sistema completo de gestão desenvolvido com tecnologias modernas. Clique no link acima para conferir o código!
 
 ---
 
