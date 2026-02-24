@@ -2,7 +2,7 @@
 ### Fullstack Developer | React, Next.js & Tailwind CSS Enthusiast
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Matheus%20Avila&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=38B2AC&height=200&section=header&text=Matheus%20Avila&fontSize=80&animation=fadeIn" />
 </p>
 
 ---
@@ -34,22 +34,14 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMathAvila&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMathAvila&layout=compact&langs_count=7&theme=radical"/>
-</p>
 
----
-
-### 🚀 Top Projects
 <p align="left">
-  <a href="https://github.com/DevMathAvila/Projeto-Mayara-Eng">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMathAvila&repo=Projeto-Mayara-Eng&theme=radical" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMathAvila&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMathAvila&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Let's Connect / Vamos nos conectar
 - 💼 [LinkedIn](https://linkedin.com/in/matheusapavila)
-- 📧 [E-mail](mailto:matheusapavila@outlook.com.br)
+- 📧 [E-mail](mailto:seuemail@exemplo.com)
